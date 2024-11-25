@@ -1,0 +1,48 @@
+﻿Сборка начата 17.11.2024 14:41:06.
+Уровень детализации журнала: Normal.     1>Проект "C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\SE_Lab18.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\SE_Lab18.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\SE_Lab18.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt In.cpp
+         In.cpp
+     1>C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\In.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\In.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     1>C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\In.cpp(49,21): warning C4244: =: преобразование "wchar_t" в "unsigned char", возможна потеря данных
+     1>C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\In.cpp(52,11): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+     1>C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\In.cpp(73,13): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\x64\Debug\SE_Lab18.exe" /INCREMENTAL /ILK:"x64\Debug\SE_Lab18.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\x64\Debug\SE_Lab18.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\x64\Debug\SE_Lab18.lib" /MACHINE:X64 x64\Debug\Error.obj
+         x64\Debug\FST.obj
+         x64\Debug\GRB.obj
+         x64\Debug\In.obj
+         x64\Debug\IT.obj
+         x64\Debug\Lexer.obj
+         x64\Debug\Log.obj
+         x64\Debug\LT.obj
+         x64\Debug\MFST.obj
+         x64\Debug\Out.obj
+         x64\Debug\Parm.obj
+         x64\Debug\SE_Lab18.obj
+         SE_Lab18.vcxproj -> C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\x64\Debug\SE_Lab18.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\SE_Lab18.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\SE_Lab18.tlog\SE_Lab18.lastbuildstate".
+     1>Сборка проекта "C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\SE_Lab18.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\SE_Lab18.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\In.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+         C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\In.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+         C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\In.cpp(49,21): warning C4244: =: преобразование "wchar_t" в "unsigned char", возможна потеря данных
+         C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\In.cpp(52,11): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+         C:\лабы\Наркевич\КПО\KPO-3sem\KPO\lab_18\SE_Lab18\SE_Lab18\In.cpp(73,13): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+
+    Предупреждений: 5
+    Ошибок: 0
+
+Прошло времени 00:00:00.88
