@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm3\\SE_Asm03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4920B6-AC36-4683-9903-8B1CE2188BDE}|SE_Asm03\\SE_Asm03.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm3\\SE_Asm03\\SE_Asm03\\asm03.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6C4920B6-AC36-4683-9903-8B1CE2188BDE}|SE_Asm03\\SE_Asm03.vcxproj|solutionrelative:SE_Asm03\\asm03.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "asm03.asm",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm3\\SE_Asm03\\SE_Asm03\\asm03.asm",
+              "RelativeDocumentMoniker": "SE_Asm03\\asm03.asm",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm3\\SE_Asm03\\SE_Asm03\\asm03.asm*",
+              "RelativeToolTip": "SE_Asm03\\asm03.asm*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T10:34:05.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

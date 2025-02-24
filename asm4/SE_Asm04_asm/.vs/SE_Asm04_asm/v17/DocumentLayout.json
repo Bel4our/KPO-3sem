@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm4\\SE_Asm04_asm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF89172-A04C-4FF8-A98A-FD8DDEAA838D}|SE_Asm04_asm\\SE_Asm04_asm.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm4\\SE_Asm04_asm\\SE_Asm04_asm\\data.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8CF89172-A04C-4FF8-A98A-FD8DDEAA838D}|SE_Asm04_asm\\SE_Asm04_asm.vcxproj|solutionrelative:SE_Asm04_asm\\data.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB75BA57-BD5F-4D60-9C73-C9D5F2E01834}|Deserealizer\\Deserealizer.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm4\\SE_Asm04_asm\\Deserealizer\\Deserealizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB75BA57-BD5F-4D60-9C73-C9D5F2E01834}|Deserealizer\\Deserealizer.vcxproj|solutionrelative:Deserealizer\\Deserealizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B29A1F4-E42F-433E-A074-263A85632904}|Serealizer\\Serealizer.vcxproj|C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm4\\SE_Asm04_asm\\Serealizer\\Serealizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B29A1F4-E42F-433E-A074-263A85632904}|Serealizer\\Serealizer.vcxproj|solutionrelative:Serealizer\\Serealizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm2\\SE_Asm2\\SE_Asm.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SE_Asm.asm",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm2\\SE_Asm2\\SE_Asm.asm",
+              "RelativeDocumentMoniker": "..\\..\\asm2\\SE_Asm2\\SE_Asm.asm",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm2\\SE_Asm2\\SE_Asm.asm",
+              "RelativeToolTip": "..\\..\\asm2\\SE_Asm2\\SE_Asm.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-06T15:30:04.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "data.asm",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm4\\SE_Asm04_asm\\SE_Asm04_asm\\data.asm",
+              "RelativeDocumentMoniker": "SE_Asm04_asm\\data.asm",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm4\\SE_Asm04_asm\\SE_Asm04_asm\\data.asm",
+              "RelativeToolTip": "SE_Asm04_asm\\data.asm",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-04T10:31:51.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Serealizer.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm4\\SE_Asm04_asm\\Serealizer\\Serealizer.cpp",
+              "RelativeDocumentMoniker": "Serealizer\\Serealizer.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm4\\SE_Asm04_asm\\Serealizer\\Serealizer.cpp",
+              "RelativeToolTip": "Serealizer\\Serealizer.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T10:23:14.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deserealizer.cpp",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm4\\SE_Asm04_asm\\Deserealizer\\Deserealizer.cpp",
+              "RelativeDocumentMoniker": "Deserealizer\\Deserealizer.cpp",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u044B\\\u041D\u0430\u0440\u043A\u0435\u0432\u0438\u0447\\\u041A\u041F\u041E\\KPO-3sem\\KPO\\asm4\\SE_Asm04_asm\\Deserealizer\\Deserealizer.cpp",
+              "RelativeToolTip": "Deserealizer\\Deserealizer.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T10:23:18.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

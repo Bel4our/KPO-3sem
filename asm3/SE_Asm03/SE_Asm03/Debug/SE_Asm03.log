@@ -1,0 +1,30 @@
+﻿Сборка начата 04.12.2024 14:08:47.
+Уровень детализации журнала: Normal.     1>Проект "C:\лабы\Наркевич\КПО\KPO-3sem\KPO\asm3\SE_Asm03\SE_Asm03\SE_Asm03.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "Debug\SE_Asm03.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "Debug\SE_Asm03.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling asm03.asm...
+         cmd.exe /C "C:\Users\Даниил\AppData\Local\Temp\tmp6b8bd0a051654185b6a03187f49d568b.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\asm03.obj" /W3 /errorReport:prompt  /Taasm03.asm
+     1>asm03.asm(9): error A2206: missing operator in expression
+     1>asm03.asm(11): error A2206: missing operator in expression
+     1>asm03.asm(13): error A2206: missing operator in expression
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\asm03.obj" /W3 /errorReport:prompt  /Taasm03.asm" с кодом "1".
+     1>Сборка проекта "C:\лабы\Наркевич\КПО\KPO-3sem\KPO\asm3\SE_Asm03\SE_Asm03\SE_Asm03.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\лабы\Наркевич\КПО\KPO-3sem\KPO\asm3\SE_Asm03\SE_Asm03\SE_Asm03.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект _MASM) -> 
+         asm03.asm(9): error A2206: missing operator in expression
+         asm03.asm(11): error A2206: missing operator in expression
+         asm03.asm(13): error A2206: missing operator in expression
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\asm03.obj" /W3 /errorReport:prompt  /Taasm03.asm" с кодом "1".
+
+    Предупреждений: 0
+    Ошибок: 4
+
+Прошло времени 00:00:00.21
